@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NumberSelectView">
+        <attr name="backgroundColorNormal" format="color" />
+        <attr name="getBackgroundColorSelect" format="color" />
+        <attr name="strokeColor" format="color" />
+        <attr name="textColor" format="color" />
+        <attr name="strokeWidth" format="dimension" />
+        <attr name="solidRadius" format="dimension" />
+        <attr name="textSize" format="dimension" />
+        <attr name="text" format="string"/>
+    </declare-styleable>
+</resources>
